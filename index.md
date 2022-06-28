@@ -21,7 +21,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone was building the robotic arm, and get it moving with the controller. The parts required were the plastic chasis, an arduino, 4 servo motors, and and two joystick controllers. Then I had to upload the code for the controller to control the arduino onto the arduino. This code just read the joysticks position, and if it went above or below a certain limit, would tell the servo to move. I enjoyed constructing the arm, but I also struggled on parts of it because I required pliars to screw in the lock nuts. 
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](https://i3.ytimg.com/vi/Y4QfptiyApU/maxresdefault.jpg)](https://www.youtube.com/watch?v=Y4QfptiyApU "First Milestone"){:target="_blank" rel="noopener"}
 
 # Starter Project
 

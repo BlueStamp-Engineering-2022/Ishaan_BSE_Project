@@ -25,6 +25,6 @@ My first milestone was building the robotic arm, and get it moving with the cont
 
 # Starter Project
 
-My Starter Project was the useless box. I soldered and learned that yes. The parts I used were a toggle switch, LED, and a PCB. I enjoyed soldering for the first time. I struggled screwing the screws into the corner posts and replacing the DC motor when it broke halfway through my project. I am looking forward to starting my intensive project
+My Starter Project was the useless box. I soldered and learned about toggle switches and how they can power different circuits in different positions. The parts I used were a toggle switch, LED, and a PCB. I enjoyed soldering for the first time. I struggled screwing the screws into the corner posts and replacing the DC motor when it broke halfway through my project. I am looking forward to starting my intensive project
 
 [![Starter Project](https://i3.ytimg.com/vi/FBNG_nFTxFA/maxresdefault.jpg)](https://www.youtube.com/watch?v=FBNG_nFTxFA "First Milestone"){:target="_blank" rel="noopener"}

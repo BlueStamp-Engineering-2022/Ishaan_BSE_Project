@@ -15,7 +15,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Second Milestone
 My second milestone was writing the code to be able to control the arduino using the HC06 module and my laptop. This required writing code in Python on my laptop and writing new code on the Arduino. I enjoyed writing the code, but I struggled with getting the Arduino to properly handle the messages from the HC06 module. Next, I plan on putting the robotic arm on a chassis so it can move. 
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Second Milestone](https://i3.ytimg.com/vi/lm0QL82dhog/maxresdefault.jpg)](https://www.youtube.com/watch?v=lm0QL82dhog "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   
 

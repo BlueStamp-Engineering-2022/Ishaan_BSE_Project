@@ -8,9 +8,9 @@ This will serve as a brief description of your project. Limit this to three sent
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLULu_SGJHWNf5H9RkK2Zo9vDu6QjKpNixUshrtd3fzGUJ6KBX79XtCuGAH0mQICQG0wmPqLbB_xIdFGUHYgJVc84xRTEENcnqlUuQRLRFyTpRmPtAElb1nQik4K1VTSwAuwYLFYlX-zBZSxIO5ysYM=s617-no?authuser=0)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My Final Milestone was creating the chassis for the arm. The chassis uses four DC motors and two motor drivers, which allows independent control over each wheel. It uses mecanum wheels, so it can move sideways as well as diagnally in addition to the stand front and back. I struggled with the wiring for all of the motors and motor drivers, and enjoyed writing the code to handle reading the instructions from the bluetooth module and using them to control the wheels.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://i3.ytimg.com/vi/BJ-xbMezrw0/maxresdefault.jpg )](https://www.youtube.com/watch?v=BJ-xbMezrw0 "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
 My second milestone was writing the code to be able to control the arduino using the HC06 module and my laptop. This required writing code in Python on my laptop and writing new code on the Arduino. I enjoyed writing the code, but I struggled with getting the Arduino to properly handle the messages from the HC06 module. Next, I plan on putting the robotic arm on a chassis so it can move. 

@@ -8,7 +8,7 @@ This will serve as a brief description of your project. Limit this to three sent
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLULu_SGJHWNf5H9RkK2Zo9vDu6QjKpNixUshrtd3fzGUJ6KBX79XtCuGAH0mQICQG0wmPqLbB_xIdFGUHYgJVc84xRTEENcnqlUuQRLRFyTpRmPtAElb1nQik4K1VTSwAuwYLFYlX-zBZSxIO5ysYM=s617-no?authuser=0)
 
 # Fourth Milestone
-My Fourth milestone was creating a wireless bluetooth controller for the arm.
+My Fourth milestone was creating a wireless bluetooth controller for the arm. I did this by designing the top and bottom plates for the controller on fusion 360 and then laser cutting them from acrylic and wood. I have two joysticks and four buttons for controlling the arm. I used an arduino nano, mainly for the size of the controller. I used an hc05 bluetooth module to allow the controller to wirelessly control the arm. I enjoyed designing then controller, because being able to customize my controller was something I had always wanted to do. One of my main struggles was the soldering, because I kept having faulty connections that took a long time to debug. 
 
 [![Fourth Milestone](https://i3.ytimg.com/vi/vALL3zzjYSw/maxresdefault.jpg )]([https://www.youtube.com/watch?v=BJ-xbMezrw0](https://www.youtube.com/watch?v=vALL3zzjYSw) "Fourth Milestone")
 

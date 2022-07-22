@@ -6,11 +6,16 @@ This will serve as a brief description of your project. Limit this to three sent
 | Ishaan Pitre | Evergreen Valley High School | CS | Incoming Sophmore
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLULu_SGJHWNf5H9RkK2Zo9vDu6QjKpNixUshrtd3fzGUJ6KBX79XtCuGAH0mQICQG0wmPqLbB_xIdFGUHYgJVc84xRTEENcnqlUuQRLRFyTpRmPtAElb1nQik4K1VTSwAuwYLFYlX-zBZSxIO5ysYM=s617-no?authuser=0)
-  
-# Final Milestone
+
+# Fourth Milestone
+My Fourth milestone was creating a wireless bluetooth controller for the arm.
+
+[![Fourth Milestone](https://i3.ytimg.com/vi/vALL3zzjYSw/maxresdefault.jpg )]([https://www.youtube.com/watch?v=BJ-xbMezrw0](https://www.youtube.com/watch?v=vALL3zzjYSw) "Fourth Milestone"){:target="_blank" rel="noopener"}
+
+# Third Milestone
 My Final Milestone was creating the chassis for the arm. The chassis uses four DC motors and two motor drivers, which allows independent control over each wheel. It uses mecanum wheels, so it can move sideways as well as diagnally in addition to the stand front and back. I struggled with the wiring for all of the motors and motor drivers, and enjoyed writing the code to handle reading the instructions from the bluetooth module and using them to control the wheels.
 
-[![Final Milestone](https://i3.ytimg.com/vi/BJ-xbMezrw0/maxresdefault.jpg )](https://www.youtube.com/watch?v=BJ-xbMezrw0 "Final Milestone"){:target="_blank" rel="noopener"}
+[![Third Milestone](https://i3.ytimg.com/vi/BJ-xbMezrw0/maxresdefault.jpg )](https://www.youtube.com/watch?v=BJ-xbMezrw0 "Third Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
 My second milestone was writing the code to be able to control the arduino using the HC06 module and my laptop. This required writing code in Python on my laptop and writing new code on the Arduino. I enjoyed writing the code, but I struggled with getting the Arduino to properly handle the messages from the HC06 module. Next, I plan on putting the robotic arm on a chassis so it can move. 

@@ -10,30 +10,30 @@ A robotic arm mounted onto a car chassis, with a custom made controller.
 # Fourth Milestone
 My Fourth milestone was creating a wireless bluetooth controller for the arm. I did this by designing the top and bottom plates for the controller on fusion 360 and then laser cutting them from acrylic and wood. I have two joysticks and four buttons for controlling the arm. I used an arduino nano, mainly for the size of the controller. I used an hc05 bluetooth module to allow the controller to wirelessly control the arm. I enjoyed designing then controller, because being able to customize my controller was something I had always wanted to do. One of my main struggles was the soldering, because I kept having faulty connections that took a long time to debug. 
 
-[![Fourth Milestone](https://i3.ytimg.com/vi/vALL3zzjYSw/maxresdefault.jpg )]([https://www.youtube.com/watch?v=BJ-xbMezrw0](https://www.youtube.com/watch?v=vALL3zzjYSw) "Fourth Milestone")
+![Fourth Milestone](https://i3.ytimg.com/vi/vALL3zzjYSw/maxresdefault.jpg )]([https://www.youtube.com/watch?v=BJ-xbMezrw0](https://www.youtube.com/watch?v=vALL3zzjYSw) "Fourth Milestone")
 
 ![Diagram1 Image](https://github.com/BlueStamp-Engineering-2022/Ishaan_BSE_Project/blob/main/controller.png)
 
 # Third Milestone
 My Final Milestone was creating the chassis for the arm. The chassis uses four DC motors and two motor drivers, which allows independent control over each wheel. It uses mecanum wheels, so it can move sideways as well as diagnally in addition to the stand front and back. I struggled with the wiring for all of the motors and motor drivers, and enjoyed writing the code to handle reading the instructions from the bluetooth module and using them to control the wheels.
 
-[![Third Milestone](https://i3.ytimg.com/vi/BJ-xbMezrw0/maxresdefault.jpg )](https://www.youtube.com/watch?v=BJ-xbMezrw0 "Third Milestone")
+![Third Milestone](https://i3.ytimg.com/vi/BJ-xbMezrw0/maxresdefault.jpg )](https://www.youtube.com/watch?v=BJ-xbMezrw0 "Third Milestone")
 
 ![Diagram2 Image](https://github.com/BlueStamp-Engineering-2022/Ishaan_BSE_Project/blob/main/diagram2.png)
 
 # Second Milestone
 My second milestone was writing the code to be able to control the arduino using the HC06 module and my laptop. This required writing code in Python on my laptop and writing new code on the Arduino. I enjoyed writing the code, but I struggled with getting the Arduino to properly handle the messages from the HC06 module. Next, I plan on putting the robotic arm on a chassis so it can move. 
 
-[![Second Milestone](https://i3.ytimg.com/vi/lm0QL82dhog/maxresdefault.jpg)](https://www.youtube.com/watch?v=lm0QL82dhog "Second Milestone")
+![Second Milestone](https://i3.ytimg.com/vi/lm0QL82dhog/maxresdefault.jpg)](https://www.youtube.com/watch?v=lm0QL82dhog "Second Milestone")
 # First Milestone
   
 
 My first milestone was building the robotic arm, and get it moving with the controller. The parts required were the plastic chasis, an arduino, 4 servo motors, and and two joystick controllers. Then I had to upload the code for the controller to control the arduino onto the arduino. This code just read the joysticks position, and if it went above or below a certain limit, would tell the servo to move. I enjoyed constructing the arm, but I also struggled on parts of it because I required pliars to screw in the lock nuts. 
 
-[![First Milestone](https://i3.ytimg.com/vi/Y4QfptiyApU/maxresdefault.jpg)](https://www.youtube.com/watch?v=Y4QfptiyApU "First Milestone")
+![First Milestone](https://i3.ytimg.com/vi/Y4QfptiyApU/maxresdefault.jpg)](https://www.youtube.com/watch?v=Y4QfptiyApU "First Milestone")
 
 # Starter Project
 
 My Starter Project was the useless box. I soldered and learned about toggle switches and how they can power different circuits in different positions. The parts I used were a toggle switch, LED, and a PCB. I enjoyed soldering for the first time. I struggled screwing the screws into the corner posts and replacing the DC motor when it broke halfway through my project. I am looking forward to starting my intensive project
 
-[![Starter Project](https://i3.ytimg.com/vi/FBNG_nFTxFA/maxresdefault.jpg)](https://www.youtube.com/watch?v=FBNG_nFTxFA "First Milestone")
+![Starter Project](https://i3.ytimg.com/vi/FBNG_nFTxFA/maxresdefault.jpg)](https://www.youtube.com/watch?v=FBNG_nFTxFA "First Milestone")

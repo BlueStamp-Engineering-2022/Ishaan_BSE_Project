@@ -5,8 +5,6 @@ A robotic arm mounted onto a car chassis, with a custom made controller.
 |:--:|:--:|:--:|:--:|
 | Ishaan Pitre | Evergreen Valley High School | CS | Incoming Sophmore
 
-![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLULu_SGJHWNf5H9RkK2Zo9vDu6QjKpNixUshrtd3fzGUJ6KBX79XtCuGAH0mQICQG0wmPqLbB_xIdFGUHYgJVc84xRTEENcnqlUuQRLRFyTpRmPtAElb1nQik4K1VTSwAuwYLFYlX-zBZSxIO5ysYM=s617-no?authuser=0)
-
 # Fourth Milestone
 My Fourth milestone was creating a wireless bluetooth controller for the arm. I did this by designing the top and bottom plates for the controller on fusion 360 and then laser cutting them from acrylic and wood. I have two joysticks and four buttons for controlling the arm. I used an arduino nano, mainly for the size of the controller. I used an hc05 bluetooth module to allow the controller to wirelessly control the arm. I enjoyed designing then controller, because being able to customize my controller was something I had always wanted to do. One of my main struggles was the soldering, because I kept having faulty connections that took a long time to debug. 
 
